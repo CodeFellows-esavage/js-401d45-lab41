@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "js-401d45-lab41",
+    "slug": "js-401d45-lab41",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
